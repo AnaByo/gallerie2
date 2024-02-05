@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+<h1>Gallerie - Galeria de Arte</h1>
+Este projeto é uma aplicação web para a "Gallerie", uma galeria de arte online. Ele utiliza Next.js, Tailwind CSS e React no front-end, e JavaScript no back-end.<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Conteúdo</h2>
+<h3>Home 🏠</h3>
+Página inicial com informações básicas e importantes sobre a Gallerie.<br>
 
-## Available Scripts
+<h3>Blog </h3>
+Seção dedicada a artigos e notícias relacionadas à arte, exposições e artistas.<br>
 
-In the project directory, you can run:
+<h3>About </h3>
+Página com detalhes sobre a galeria, sua missão e história.<br>
 
-### `npm start`
+<h3>Arts </h3>
+Galeria de obras de arte exibidas na Gallerie, com informações sobre cada peça.<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>Artists </h3>
+Perfil e portfólio de artistas que colaboram com a Gallerie.<br></br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3>Tecnologias Utilizadas</h3>
 
-### `npm test`
+<h4>Front-end: </h4><br>
+<div style="display: flex;">
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" style="width: 50px; margin-right: 10px;">
+  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" style="width: 50px;">
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" style="width: 50px;">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div><br>
 
-### `npm run build`
+<h4>Back-end: </h4><br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width: 50px;">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3>Como Executar o Projeto</h3>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+Clone este repositório:
+git clone https://github.com/AnaByo/gallerie.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Navegue até o diretório do projeto:
+cd gallerie
 
-### `npm run eject`
+Instale as dependências:
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Execute o projeto:
+npm run dev
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Abra seu navegador e acesse http://localhost:3000 para visualizar o site.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2>Contribuição</h2>
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>Licença</h2>
+Este projeto está licenciado sob a Licença MIT.
